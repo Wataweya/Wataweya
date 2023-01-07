@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Wataweya
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Wael Atawya
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning HMTL, CSS, JavaScript
 - 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me ...
+- 📫 you can reach out to me through my email : wael.atawya@hotmail.com
 
 <!---
 Wataweya/Wataweya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
